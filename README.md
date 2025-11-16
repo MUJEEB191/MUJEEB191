@@ -22,8 +22,6 @@
 * **Systems / Low-level:** C Programming — algorithms, data structures
 * **Other:** Version control with Git, basic debugging, writing clean and commented code
 
-> ⚠️ Note: you mentioned `s code` — if you meant another language (e.g., **S** language, **SQL**, or **C#**), tell me and I'll update this README.
-
 
 
 
