@@ -26,18 +26,9 @@
 
 
 
-## 🧩 Project ideas
-
-* **Personal Portfolio Website** — HTML/CSS/JS; responsive and accessible
-* **To‑Do App** — JavaScript (localStorage) and simple UI interactions
-* **Web Scraper / Automator** — Python script for small data collection or automation tasks
-* **Algorithm Implementations** — C programs with classic algorithms and explanations
 
 
 
 ## 📫 Contact / Connect
 * Email: `mujeebvpmr10@gmail.com`
 
-
-
-*Made with ❤️ — edit this file to reflect your projects and real contact info.*
