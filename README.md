@@ -1,6 +1,6 @@
 # Hi there — I'm Mujeeb 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+I'm+Joyal+👋;Software+Developer;MERN+Stack+%7C+React+Native+Developer;Building+Practical+%2B+Modern+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+I'm+Mujeeb+👋;Software+Developer;MERN+Stack+%7C+React+Native+Developer;Building+Practical+%2B+Modern+Apps" />
 </p>
 
 > A passionate developer with hands-on experience in web development and programming languages: **HTML, CSS, JavaScript, Python, C (C Programming) and experience working with various codebases. This repository is a living portfolio of learning projects, code snippets, and notes.
