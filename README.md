@@ -14,79 +14,20 @@
 
 > ⚠️ Note: you mentioned `s code` — if you meant another language (e.g., **S** language, **SQL**, or **C#**), tell me and I'll update this README.
 
----
 
-## 🚀 What you'll find in this repo
 
-* `projects/` — small, focused projects (web pages, scripts, C programs)
-* `snippets/` — handy code snippets and templates (HTML boilerplate, CSS utilities, JS helpers, Python snippets)
-* `experiments/` — work-in-progress or learning experiments
-* `notes/` — short explanations, tips, and commands (Git, debugging, compile/run instructions)
-
----
-
-## 💡 Example quickstart
-
-### Run a Python script
-
-```bash
-python3 scripts/example.py
-```
-
-### Open a simple web demo
-
-1. Open `projects/web-demo/index.html` in your browser.
-2. Or run a local server (recommended):
-
-```bash
-# Python 3 built-in server (serves current directory at http://localhost:8000)
-python3 -m http.server 8000
-```
-
-### Compile & run a C program
-
-```bash
-gcc -o hello_c programs/hello.c
-./hello_c
-```
-
----
-
-## 🧩 Project ideas (to include)
+## 🧩 Project ideas
 
 * **Personal Portfolio Website** — HTML/CSS/JS; responsive and accessible
 * **To‑Do App** — JavaScript (localStorage) and simple UI interactions
 * **Web Scraper / Automator** — Python script for small data collection or automation tasks
 * **Algorithm Implementations** — C programs with classic algorithms and explanations
 
----
 
-## 🧰 How I structure code
-
-* Keep functions small and focused
-* Add comments where the intent isn’t obvious
-* Use `README.md` inside each project folder describing: purpose, how to run, and tech used
-* Include license and contribution guidelines for larger projects
-
----
 
 ## 📫 Contact / Connect
+* Email: `mujeebvpmr10@gmail.com`
 
-* GitHub: `github.com/<your-username>`
-* Email: `your.email@example.com`
 
-If you want, I can:
-
-* generate README badges (build, license, languages)
-* create starter project folders for each skill
-* or tailor the README to a specific job/role (internship, frontend, backend)
-
----
-
-## ⚖️ License
-
-This repository is available under the MIT License. See `LICENSE` for details.
-
----
 
 *Made with ❤️ — edit this file to reflect your projects and real contact info.*
